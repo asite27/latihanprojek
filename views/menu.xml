@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<!-- PARENT/ISI PADA MENU NAVBAR -->
+
+    <!-- This Menu Item will appear in the Upper bar, that's why It needs NO parent or action -->
+    <menuitem
+        id="audreymarket_menu_root"
+        name="audrey market"
+        sequence="10"/>
+
+    <!-- PARENT BARANG -->
+    <menuitem
+        id="audreymarket_barang_menu_categ"
+        name="barang"
+        parent="audreymarket_menu_root"
+        sequence="10"/>
+
+    <!-- PARENT PEGAWAI -->
+    <menuitem
+        id="audreymarket_pegawai_menu_categ"
+        name="pegawai"
+        parent="audreymarket_menu_root"
+        sequence="20"/>
+
+    <!-- PARENT TRANSAKSI  -->
+    <menuitem
+        id="audreymarket_transaksi_menu_categ"
+        name="Transaksi"
+        parent ="audreymarket_menu_root"
+        sequence="42"/>
+</odoo>

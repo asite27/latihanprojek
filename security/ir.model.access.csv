@@ -1,0 +1,13 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_audreymarket_kelompokbarang,access.audreymarket.kelompokbarang,model_audreymarket_kelompokbarang,,1,1,1,1
+access_audreymarket_barang,access.audreymarket.barang,model_audreymarket_barang,,1,1,1,1
+
+access_audreymarket_person,access.audreymarket.person,model_audreymarket_person,,1,1,1,1
+access_audreymarket_kasir,access.audreymarket.kasir,model_audreymarket_kasir,,1,1,1,1
+access_audreymarket_cleaningservice,access.audreymarket.cleaningservice,model_audreymarket_cleaningservice,,1,1,1,1
+access_audreymarket_supplier,access.audreymarket.supplier,model_audreymarket_supplier,,1,1,1,1
+
+access_audreymarket_penjualan,access.audreymarket.penjualan,model_audreymarket_penjualan,,1,1,1,1
+access_audreymarket_detailpenjualan,access.audreymarket.detailpenjualan,model_audreymarket_detailpenjualan,,1,1,1,1
+
+access_audreymarket_kedatanganbarang,access.audreymarket.kedatanganbarang,model_audreymarket_kedatanganbarang,,1,1,1,1
